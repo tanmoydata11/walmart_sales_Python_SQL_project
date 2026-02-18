@@ -176,5 +176,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgements
 
-- **Dataset:** [Walmart 10K Sales Dataset on Kaggle](https://www.kaggle.com/najir0123/walmart-10k-sales-datasets) by Najir
+- **Dataset:** [Walmart 10K Sales Dataset on Kaggle](https://www.kaggle.com/najir0123/walmart-10k-sales-datasets)
 - **Inspiration:** Real-world retail analytics use cases in sales and supply chain optimization
