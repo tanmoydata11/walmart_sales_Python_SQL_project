@@ -112,7 +112,7 @@ Decrease_Ratio = (Revenue_2022 - Revenue_2023) / Revenue_2022 × 100
 
 ### 1. Clone the Repository
 ```bash
-
+https://github.com/tanmoydata11/walmart_sales_Python_SQL_project.git
 cd walmart-sales-analysis
 ```
 
